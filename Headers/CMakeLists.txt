@@ -1,0 +1,1 @@
+add_library(saveload_lib INTERFACE)
